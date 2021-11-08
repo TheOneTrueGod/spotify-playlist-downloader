@@ -1,3 +1,6 @@
+What does it do?
+Downloads the playlists you created in spotify, and saves their contents to a CSV
+
 Usage:
 python ./playlistDownloader.py -USER_ID-
 

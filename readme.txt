@@ -10,3 +10,6 @@ https://www.python.org/downloads/
 
 spotipy: pip install spotipy
 https://pypi.org/project/spotipy/
+
+A spotify developer account (free to get) and an app
+https://developer.spotify.com/dashboard/
